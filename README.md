@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Michael Kwak
-- 👀 I’m interested in ... automation
+- 👋 Hi, I’m Michael Yeon Kyu Kwak
+- 👀 I’m interested in ... robots & automation
 - 🌱 I’m currently learning ... web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  https://www.linkedin.com/in/yeon-kyu-kwak/
 
 <!---
